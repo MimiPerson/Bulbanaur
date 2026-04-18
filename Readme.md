@@ -27,3 +27,5 @@ Emote must be named "Bulbanaur" and have Synthi_soul as the attributed artist
 [thiccxsucc](https://twitch.tv/thiccxsucc)
 
 [oreimoextreme](https://twitch.tv/oreimoextreme)
+
+[noctisthefool](https://twitch.tv/noctisthefool)
