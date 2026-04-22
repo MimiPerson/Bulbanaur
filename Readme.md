@@ -1,6 +1,6 @@
-List of streamers with the Bulbanaur emote
-feel free to contact mimipy on discord to be added or just make a merge request with your name added <3
-Emote must be named "Bulbanaur" and have Synthi_soul as the attributed artist
+# List of streamers with the Bulbanaur emote
+## feel free to contact mimipy on discord to be added or just make a merge request with your name added <3
+### Emote must be named "Bulbanaur" and have *Synthi_soul* as the attributed artist
 
 [Mimi_py](https://twitch.tv/mimi_py)
 
